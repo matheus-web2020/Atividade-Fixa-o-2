@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\SENAI\AtividadeFixação2\bin\Debug\netcoreapp3.1\AtividadeFixação2.exe
+C:\Users\Matheus\Desktop\SENAI\AtividadeFixação2\bin\Debug\netcoreapp3.1\AtividadeFixação2.deps.json
+C:\Users\Matheus\Desktop\SENAI\AtividadeFixação2\bin\Debug\netcoreapp3.1\AtividadeFixação2.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI\AtividadeFixação2\bin\Debug\netcoreapp3.1\AtividadeFixação2.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\SENAI\AtividadeFixação2\bin\Debug\netcoreapp3.1\AtividadeFixação2.dll
+C:\Users\Matheus\Desktop\SENAI\AtividadeFixação2\bin\Debug\netcoreapp3.1\AtividadeFixação2.pdb
+C:\Users\Matheus\Desktop\SENAI\AtividadeFixação2\obj\Debug\netcoreapp3.1\AtividadeFixação2.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI\AtividadeFixação2\obj\Debug\netcoreapp3.1\AtividadeFixação2.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI\AtividadeFixação2\obj\Debug\netcoreapp3.1\AtividadeFixação2.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI\AtividadeFixação2\obj\Debug\netcoreapp3.1\AtividadeFixação2.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI\AtividadeFixação2\obj\Debug\netcoreapp3.1\AtividadeFixação2.dll
+C:\Users\Matheus\Desktop\SENAI\AtividadeFixação2\obj\Debug\netcoreapp3.1\AtividadeFixação2.pdb
+C:\Users\Matheus\Desktop\SENAI\AtividadeFixação2\obj\Debug\netcoreapp3.1\AtividadeFixação2.genruntimeconfig.cache
